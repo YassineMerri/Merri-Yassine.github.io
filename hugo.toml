@@ -6,7 +6,7 @@ theme = "hugo-profile"
 [params]
   title = "Ahmed Yassine Merri"
   description = "Étudiant Ingénieur SESNUM à l'INPT"
-  favicon = "/favicon.ico"
+  favicon = "/Merri-Yassine.github.io/favicon.ico"
 
   [params.hero]
     enable = true
@@ -34,7 +34,7 @@ theme = "hugo-profile"
   [params.about]
     enable = true
     title = "À propos de moi"
-    image = "/cvPhoto.jpeg"
+    image = "/Merri-Yassine.github.io/cvPhoto.jpeg"
     content = """
 Je suis étudiant en 1ère année du cycle ingénieur à l'**INPT - Institut National des Postes et Télécommunications** de Rabat, dans la filière **SESNUM (Systèmes Embarqués et Services Numériques)**.
 
