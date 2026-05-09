@@ -126,3 +126,4 @@ Passionné par l'électronique, la programmation bas niveau et les nouvelles tec
     name = "Contact"
     url = "/#contact"
     weight = 5
+    publishDir = "docs"
